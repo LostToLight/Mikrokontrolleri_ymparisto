@@ -17,12 +17,12 @@
 > 1. [ESP32-mikrokontrolleri](#1-ESP32-mikrokontrolleri)
 >
 >> 1.1. [Ohjelmointiympäristön asentaminen](#11-ohjelmointiympäristön-asentaminen)
->
+>>
 >> 1.2. [Projektin luominen](#12-projektin-luominen)
->
->>1.3. [Ohjelman kirjoittaminen](#13-ohjelman-kirjoittaminen)
->
->>1.4. [Ohjelman kääntäminen ja lataaminen mikro-ohjaimeen](#14-ohjelman-kääntäminen-ja-lataaminen-mikrokontrolleriin)
+>>
+>> 1.3. [Ohjelman kirjoittaminen](#13-ohjelman-kirjoittaminen)
+>>
+>> 1.4. [Ohjelman kääntäminen ja lataaminen mikro-ohjaimeen](#14-ohjelman-kääntäminen-ja-lataaminen-mikrokontrolleriin)
 
 ### 1 ESP32-mikrokontrolleri
 Mikrokontrollerit eli mikro-ohjaimet ovat yhteen mikropiiriin toteutettuja tietokoneita. Mikropiiri sisältää prosessorin, muistin ja I/O -nastoja. Lisäksi mikrokontrollereissa voi olla muitakin ominaisuuksia, kuten esimerkiksi A/D muunnin, Bluetooth, Wi-Fi ja erilaisia väyliä. Vähimmillään mikrokontrolleri voi toimia virtalähteen kytkemisellä. Tässä esimerkissä käytetään ESP-WROOM-32 mikrokontrolleria. Prosessorina toimii kaksiytiminen Xtensa, 32-bittinen LX6-mikroprosessori, joka toimii maksimissaan 240 MHz:n taajuudella.
