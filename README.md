@@ -65,7 +65,7 @@ Hetken odottelun jälkeen `Eka_Testi` projekti on valmis ohjelmointia varten. Oh
 Lataa __Githubista__ tiedosto `main.cpp`. Tiedosto löytyy `/src` kansiosta. Tähän kansioon tallennetaan kaikki ohjelman lähdekoodit.
 
 #### 1.4 Ohjelman kääntäminen ja lataaminen mikrokontrolleriin
-Jotta ohjelma voisi toimia mikrokontrollerissa, täytyy se ensin kääntää teksistä binäärimuotoon. Ohjelman kääntäminen tapahtuu Visual Studio Codessa.
+Jotta ohjelma voisi toimia mikrokontrollerissa, täytyy se ensin kääntää tekstistä binäärimuotoon. Ohjelman kääntäminen tapahtuu Visual Studio Codessa.
 
 | ![compiling] |
 | :--: |
