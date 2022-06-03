@@ -15,9 +15,13 @@
 > ## Sisällysluettelo
 >
 > 1. [ESP32-mikrokontrolleri](#1-ESP32-mikrokontrolleri)
+>
 > 1.1. [Ohjelmointiympäristön asentaminen](#11-ohjelmointiympäristön-asentaminen)
+> 
 > 1.2. [Projektin luominen](#12-projektin-luominen)
+> 
 > 1.3. [Ohjelman kirjoittaminen](#13-ohjelman-kirjoittaminen)
+> 
 > 1.4. [Ohjelman kääntäminen ja lataaminen mikro-ohjaimeen](#14-ohjelman-kääntäminen-ja-lataaminen-mikrokontrolleriin)
 
 ### 1 ESP32-mikrokontrolleri
