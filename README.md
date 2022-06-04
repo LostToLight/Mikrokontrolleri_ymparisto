@@ -48,7 +48,7 @@ Projektin luominen alkaa `Welcome to PlatformIO` sivulta ja valitsemalla sieltä
 | <b>Kuva 3, Projektin luominen. |
 
 `New Project` avaa ikkunan, jolla tehdään määritykset uudelle projektille. Kirjoita `Name` kohtaan projektin nimi. Tässä esimerkissä nimeksi valitaan `Eka_Testi`. 
-`Board` kohtaan valitse käyttämäsi mikrokontrolleri. Tässä esimerkissä käytetään `NodeMCU-32-S` mikrokontrolleri.
+`Board` kohtaan valitse käyttämäsi mikrokontrolleri. Tässä esimerkissä käytetään `NodeMCU-32-S` mikrokontrolleria.
 `Framework` on `Arduino Framework`. 
 
 | ![wizard] |
